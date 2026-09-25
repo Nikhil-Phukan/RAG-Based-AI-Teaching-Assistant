@@ -1,0 +1,10 @@
+I am teaching python in my python for beginners course. Here are video subtitle chunks 
+containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Introduction to Programming & Python","number":"1","start":330.0,"end":332.0,"text":" We are going to learn in this course"},{"title":"Exercise 1 Calculator using Python","number":"7","start":71.0,"end":73.0,"text":" What are you teaching?"},{"title":"Introduction to Programming & Python","number":"1","start":50.0,"end":52.0,"text":" In this course we will do a lot of practice"},{"title":"Our First Python Program","number":"4","start":255.52,"end":257.72,"text":" And this is the specialty of this course."},{"title":"Some Amazing Python Programs  The Power of Python","number":"2","start":102.0,"end":105.0,"text":" We will cover all these things in this course"}]
+---------------------------------
+"what is taught in this course?"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above 
+format, its just for you) where and how much content is taught in which video (in which video and at what 
+timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that 
+you can only answer questions related to the course

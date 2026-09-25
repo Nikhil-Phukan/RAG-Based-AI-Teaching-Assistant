@@ -1,0 +1,11 @@
+Welcome to our Python for Beginners course. I'd be happy to help you with your questions.
+
+So, you want to know what's taught in this course. Well, we actually start with an introduction to programming and Python in our first video (Video 1). We take a closer look at the basics of Python programming and what you can expect from the course.
+
+If you want to learn more about that, I recommend checking out Video 1, where we cover the basics of programming in Python and what you can expect from the course. We start at timestamp 50 seconds and go up until 52 seconds.
+
+In the next video (Video 7), we actually get to practice what we learned in Video 1 by building a simple calculator using Python. We explore how to use Python's syntax and how to write a simple program.
+
+If you want to see how we do that, I'd suggest watching Video 7, where we build a calculator using Python. You can jump straight into Video 7 and we'll go from there.
+
+Let me know if you have any other questions or if there's anything else I can help you with!

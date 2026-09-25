@@ -1,0 +1,16 @@
+*.json
+*.mp3
+*.mp4
+# macOS
+*.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+.vscode/
+unused/
+embeddings.joblib
